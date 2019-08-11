@@ -1,12 +1,9 @@
 /**
  * 
  * @author Steve Lévesque
- * GitHub/GitLab : steve-levesque
- *
- * All rights reserved - Tous droits réservés
+ * @GitHub steve-levesque
  * 
  */
-
 package Inheritance;
 
 public class Phone {
