@@ -91,4 +91,4 @@ See the `LICENSE` file at the root of the project directory for more information
 [issues-shield]: https://img.shields.io/github/issues/steve-levesque/Portfolio-Java-OOP.svg?style=for-the-badge
 [issues-url]: https://github.com/steve-levesque/Portfolio-Java-OOP/issues
 [license-shield]: https://img.shields.io/github/license/steve-levesque/Portfolio-Java-OOP.svg?style=for-the-badge
-[license-url]: https://github.com/steve-levesque/Portfolio-Java-OOP/blob/master/LICENSE
+[license-url]: https://github.com/steve-levesque/Portfolio-Java-OOP/blob/main/LICENSE
