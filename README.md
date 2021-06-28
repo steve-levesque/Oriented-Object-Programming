@@ -19,31 +19,36 @@ Description and code examples of the main 4 aspects of OOP.
 
 <!-- Repo's Content Tree -->
 ## Directories and Files
-``` bash
-  |- src                  # Contains the examples with a dedicated Main class for each of them.
-  |   |- Abstraction
-  |   |   |- Component.java
-  |   |   |- Main.java
-  |   |   |- Motherboard.java
-  |   |   |- Ram1.java
-  |   |   |- Ram2.java
-  |   |- ClassObject
-  |   |   |- Employee.java
-  |   |   |- Main.java
-  |   |- Encapsulation
-  |   |   |- Main.java
-  |   |   |- Secret.java
-  |   |- Inheritance
-  |   |   |- Main.java
-  |   |   |- Phone.java
-  |   |   |- Smartphone.java
-  |   |- Polymorphism
-  |   |   |- Calculator.java
-  |   |   |- Main.java
-  |- .gitignore           # Excludes IDE specific, compiled and not needed files.
-  |- LICENSE              # Details about the license.
-  |- README.md            # This file.
-```
+<details open>
+  <summary><b>Project's Tree</b></summary>
+    
+  ``` bash
+    |- src                  # Contains the examples with a dedicated Main class for each of them.
+    |   |- Abstraction
+    |   |   |- Component.java
+    |   |   |- Main.java
+    |   |   |- Motherboard.java
+    |   |   |- Ram1.java
+    |   |   |- Ram2.java
+    |   |- ClassObject
+    |   |   |- Employee.java
+    |   |   |- Main.java
+    |   |- Encapsulation
+    |   |   |- Main.java
+    |   |   |- Secret.java
+    |   |- Inheritance
+    |   |   |- Main.java
+    |   |   |- Phone.java
+    |   |   |- Smartphone.java
+    |   |- Polymorphism
+    |   |   |- Calculator.java
+    |   |   |- Main.java
+    |- .gitignore           # Excludes IDE specific, compiled and not needed files.
+    |- LICENSE              # Details about the license.
+    |- README.md            # This file.
+  ```
+  
+</details>
 
 
 
